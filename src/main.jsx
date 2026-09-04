@@ -39,7 +39,7 @@ import "./styles.css";
 // FASTAPI
 // ==================================================
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://time2travel-p6fo.onrender.com";
 
 async function getPrediction(data) {
   const response = await fetch(`${API_URL}/predict`, {
