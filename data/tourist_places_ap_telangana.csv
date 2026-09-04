@@ -1,0 +1,51 @@
+id,place,state,district,category,source_basis
+1,Araku Valley,Andhra Pradesh,Alluri Sitharama Raju,Hill Station/Nature,Government tourism directories/reports; compiled dataset
+2,Borra Caves,Andhra Pradesh,Alluri Sitharama Raju,Cave/Nature,Government tourism directories/reports; compiled dataset
+3,Rushikonda Beach,Andhra Pradesh,Visakhapatnam,Beach,Government tourism directories/reports; compiled dataset
+4,Kailasagiri,Andhra Pradesh,Visakhapatnam,Hill/Nature,Government tourism directories/reports; compiled dataset
+5,Submarine Museum,Andhra Pradesh,Visakhapatnam,Museum,Government tourism directories/reports; compiled dataset
+6,Simhachalam Temple,Andhra Pradesh,Visakhapatnam,Temple,Government tourism directories/reports; compiled dataset
+7,Lepakshi Temple,Andhra Pradesh,Sri Sathya Sai,Heritage/Temple,Government tourism directories/reports; compiled dataset
+8,Horsley Hills,Andhra Pradesh,Annamayya,Hill Station/Nature,Government tourism directories/reports; compiled dataset
+9,Tirumala Tirupati,Andhra Pradesh,Tirupati,Temple,Government tourism directories/reports; compiled dataset
+10,Sri Venkateswara National Park,Andhra Pradesh,Tirupati,Wildlife/Nature,Government tourism directories/reports; compiled dataset
+11,Chandragiri Fort,Andhra Pradesh,Tirupati,Fort/Heritage,Government tourism directories/reports; compiled dataset
+12,Undavalli Caves,Andhra Pradesh,Guntur,Cave/Heritage,Government tourism directories/reports; compiled dataset
+13,Amaravati Stupa,Andhra Pradesh,Palnadu,Buddhist/Heritage,Government tourism directories/reports; compiled dataset
+14,Kondaveedu Fort,Andhra Pradesh,Guntur,Fort/Heritage,Government tourism directories/reports; compiled dataset
+15,Prakasam Barrage,Andhra Pradesh,NTR,River/Landmark,Government tourism directories/reports; compiled dataset
+16,Bhavani Island,Andhra Pradesh,NTR,Island/Nature,Government tourism directories/reports; compiled dataset
+17,Kondapalli Fort,Andhra Pradesh,NTR,Fort/Heritage,Government tourism directories/reports; compiled dataset
+18,Papikondalu,Andhra Pradesh,Alluri Sitharama Raju,Nature/Boating,Government tourism directories/reports; compiled dataset
+19,Konaseema,Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,Nature/Backwaters,Government tourism directories/reports; compiled dataset
+20,Srisailam,Andhra Pradesh,Nandyal,Temple/Nature,Government tourism directories/reports; compiled dataset
+21,Belum Caves,Andhra Pradesh,Nandyal,Cave/Nature,Government tourism directories/reports; compiled dataset
+22,Mangalagiri,Andhra Pradesh,Guntur,Temple/Hill,Government tourism directories/reports; compiled dataset
+23,Charminar,Telangana,Hyderabad,Historical Site,Government tourism directories/reports; compiled dataset
+24,Golconda Fort,Telangana,Hyderabad,Fort/Heritage,Government tourism directories/reports; compiled dataset
+25,Chowmahalla Palace,Telangana,Hyderabad,Palace/Heritage,Government tourism directories/reports; compiled dataset
+26,Salar Jung Museum,Telangana,Hyderabad,Museum,Government tourism directories/reports; compiled dataset
+27,Hussain Sagar Lake,Telangana,Hyderabad,Lake,Government tourism directories/reports; compiled dataset
+28,Shilparamam,Telangana,Hyderabad,Culture/Arts,Government tourism directories/reports; compiled dataset
+29,Ramoji Film City,Telangana,Rangareddy,Entertainment,Government tourism directories/reports; compiled dataset
+30,Keesaragutta Temple,Telangana,Medchal-Malkajgiri,Temple,Government tourism directories/reports; compiled dataset
+31,Ananthagiri Hills,Telangana,Vikarabad,Hill Station/Nature,Government tourism directories/reports; compiled dataset
+32,Bhongir Fort,Telangana,Yadadri Bhuvanagiri,Fort/Heritage,Government tourism directories/reports; compiled dataset
+33,Yadadri Temple,Telangana,Yadadri Bhuvanagiri,Temple,Government tourism directories/reports; compiled dataset
+34,Ramappa Temple,Telangana,Mulugu,Temple/UNESCO,Government tourism directories/reports; compiled dataset
+35,Warangal Fort,Telangana,Warangal,Fort/Heritage,Government tourism directories/reports; compiled dataset
+36,Thousand Pillar Temple,Telangana,Hanamkonda,Temple/Heritage,Government tourism directories/reports; compiled dataset
+37,Laknavaram Lake,Telangana,Mulugu,Lake/Nature,Government tourism directories/reports; compiled dataset
+38,Eturnagaram Wildlife Sanctuary,Telangana,Mulugu,Wildlife,Government tourism directories/reports; compiled dataset
+39,Kaleshwaram Temple,Telangana,Jayashankar Bhupalpally,Temple,Government tourism directories/reports; compiled dataset
+40,Vemulawada Temple,Telangana,Rajanna Sircilla,Temple,Government tourism directories/reports; compiled dataset
+41,Medak Fort,Telangana,Medak,Fort/Heritage,Government tourism directories/reports; compiled dataset
+42,Medak Cathedral,Telangana,Medak,Church/Heritage,Government tourism directories/reports; compiled dataset
+43,Manjira Wildlife Sanctuary,Telangana,Sangareddy,Wildlife,Government tourism directories/reports; compiled dataset
+44,Kuntala Waterfall,Telangana,Nirmal,Waterfall/Nature,Government tourism directories/reports; compiled dataset
+45,Pochera Waterfall,Telangana,Nirmal,Waterfall/Nature,Government tourism directories/reports; compiled dataset
+46,Kawal Tiger Reserve,Telangana,Mancherial,Wildlife,Government tourism directories/reports; compiled dataset
+47,Basara Temple,Telangana,Nirmal,Temple,Government tourism directories/reports; compiled dataset
+48,Nagarjuna Sagar,Telangana,Nalgonda,Dam/Nature,Government tourism directories/reports; compiled dataset
+49,Somasila,Telangana,Nagarkurnool,Nature/Backwaters,Government tourism directories/reports; compiled dataset
+50,Pillalamarri,Telangana,Mahabubnagar,Nature/Heritage,Government tourism directories/reports; compiled dataset
